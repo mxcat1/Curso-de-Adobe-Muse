@@ -1,0 +1,10 @@
+FRUTA $45
+Plátano,  mandarina, piña, con una mezcla de frutos rojos.
+
+CROISSANTS $40
+Queso o Chocolate.
+
+PAN CON CREMA DE PLÁTANO $30
+
+BAGEL $30
+Jamón, cebolla o Asiago con su elección de mantequilla o queso crema incluido.

@@ -1,0 +1,162 @@
+------------------------------------------------------------------------------------------------------------------------
+DESAYUNO  cuadro 1
+------------------------------------------------------------------------------------------------------------------------
+SPIKE $90
+Burrito de desayuno con huevo, frijoles negros, guacamole, cebolla, cilantro, salsa de tomate, chipotle y elección de papa, pollo, o carne de res.
+
+DAZZLER $70
+Papas fritas con huevos revueltos y tocino local.
+
+NESSIE $80
+Pancakes con abundantes chispas de chocolate o arándanos.
+
+
+------------------------------------------------------------------------------------------------------------------------
+DESAYUNO  cuadro 2
+------------------------------------------------------------------------------------------------------------------------
+FRUTA $45
+Plátano,  mandarina, piña, con una mezcla de frutos rojos.
+
+CROISSANTS $40
+Queso o Chocolate.
+
+PAN CON CREMA DE PLÁTANO $30
+
+BAGEL $30
+Jamón, cebolla o Asiago con su elección de mantequilla o queso crema incluido.
+
+------------------------------------------------------------------------------------------------------------------------
+COMIDA cuadro 1
+------------------------------------------------------------------------------------------------------------------------
+JR $ 70
+Jamón y queso gruyere en grano entero con mantequilla pan tostado con una pizca de pimienta de ajo.
+
+BABE $70
+Pavo y queso suizo con cebolla, y estragón aioli.
+
+FRANCO $100
+Roast beef y pastrami con doble capa queso cheddar y salsa de barbecue en pan tostado de trigo y miel.
+
+ZARF $110
+Ensalada de verduras, calabacín frito, coles, tomate,  cebolla roja, pimiento, ajo y vinagreta de vino tinto en pan de arándanos tostado.
+
+------------------------------------------------------------------------------------------------------------------------
+COMIDA cuadro 2
+------------------------------------------------------------------------------------------------------------------------
+
+SOILY $11
+Chorizo con cebolla picada, salsa de chipotle picante, queso cheddar y mostaza en un pan de  hot dog.
+
+ALCAZAR $90
+Una hamburguesa de ternera Kobe en un pan tostado con cebolla, salsa chipotle, lechuga, tomate y pimiento.
+
+HELENA $10
+Tocino, espinaca y tomates secos con mayonesa y mostaza en una baguette francesa.
+
+SPINELLI $110
+Una hamburguesa vegetariana con queso suizo, tocino falso, y salsa de pepino y mango.
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+CENA cuadro 1
+------------------------------------------------------------------------------------------------------------------------
+CHARMANDER $90
+Enchiladas con queso cheddar jack y salsa roja picante, además de su selección de carne de res, cerdo o pollo.
+
+TUXEDO MASK $100
+Lomo de cerdo a la parrilla servido con una guarnición de patatas y judías verdes.
+
+JUGGERNAUT $110
+Pollo completo a la barbecue relleno con la receta de Katie.
+
+MOONLIGHT DESTINY $110
+Ensalada con pollo a la parrilla, croutons, queso cheddar blanco, mezcla de lechugas, pepino, coles, tomate, cebolla roja, y su elección de chipotle ranch o vinagreta de vino tinto.
+
+
+------------------------------------------------------------------------------------------------------------------------
+CENA cuadro 2
+------------------------------------------------------------------------------------------------------------------------
+
+CREEPYPASTA $90
+Pasta de cabello de ángel con salsa de vino blanco, queso parmesano, romano, y ajo.
+
+BIG KAHUNA BURGER $100
+Una hamburguesa de pavo,  verduras y de ternera todo en capas con tocino, queso cheddar, lechuga, mostaza, y salsa de tomate.
+
+KATIE’S FAVORITE DUMPLINGS $100
+Albóndigas de pollo cocinados a la perfección en una olla de barro con salsa.
+
+OH HEY DANI $110
+Un plato de sushi California mezclado con atún picante y rollos avocado salmón, servido con sopa de miso.
+------------------------------------------------------------------------------------------------------------------------
+POSTRE cuadro 1
+------------------------------------------------------------------------------------------------------------------------
+FUZZ $60
+Pay de melocotón hecha con duraznos frescos y remató con galletas caseras.
+
+THE APPLE OF MY EYE $60
+Pay de manzana servido caliente con helado de vainilla.
+
+THE CARBE DIEM $60
+Budín clásico servido con salsa de caramelo.
+
+THE RICH ‘N’ RED $50
+Una gran brownie de frambuesa con chocolate cubierto con una bola de helado de vainilla y frambuesas frescas.
+
+------------------------------------------------------------------------------------------------------------------------
+POSTRE cuadro 2
+------------------------------------------------------------------------------------------------------------------------
+
+THE SWEET AND SOUR $70
+Una rebanada de pay de limón con merengue.
+
+SCONES $30
+Arándanos, coco, azúcar morena, canela y  mantequilla de maní.
+
+BARS $20
+Malvavisco crujiente y esponjoso de trigo.
+
+CUPCAKES $40
+Chocolate, vainilla, terciopelo rojo, y de temporada.
+
+
+------------------------------------------------------------------------------------------------------------------------
+BEBIDAS cuadro 1
+------------------------------------------------------------------------------------------------------------------------
+GRANOS
+CH: $30  M: $45  G: $52.5
+Tostado leve: 
+  - Arusha, Tanzania 
+  - Santos, Brasil 
+Tostado Medio: 
+  - Blue Mountain, Papua Nueva Guinea 
+  - Bourbon, Rwanda 
+  - Caturra, Colombia 
+Tostado Oscuro: 
+  - Harar de Etiopía, Etiopía 
+  - Gesha, Costa Rica
+
+MILKY WAY
+CH: $22.5  M: $27.5  G: $32.5
+Latte
+Mocha
+Cappuccino
+------------------------------------------------------------------------------------------------------------------------
+BEBIDAS cuadro 2
+------------------------------------------------------------------------------------------------------------------------
+
+TÉS  CH: $22.5  M: $27.5  G: $32.5
+
+Canela
+Jazmin- Verde
+Frambueza-Limón
+
+The Pink Lady $30
+Limonada y Arándanos
+
+The June Bug $40
+OJ & Granadina
+
+The Lime Libation $30
+Limonada

@@ -1,0 +1,18 @@
+GRANOS
+CH: $30  M: $45  G: $52.5
+Tostado leve: 
+  - Arusha, Tanzania 
+  - Santos, Brasil 
+Tostado Medio: 
+  - Blue Mountain, Papua Nueva Guinea 
+  - Bourbon, Rwanda 
+  - Caturra, Colombia 
+Tostado Oscuro: 
+  - Harar de Etiopia, Etiopia
+  - Gesha, Costa Rica
+
+MILKY WAY
+CH: $22.5  M: $27.5  G: $32.5
+Latte
+Mocha
+Cappuccino

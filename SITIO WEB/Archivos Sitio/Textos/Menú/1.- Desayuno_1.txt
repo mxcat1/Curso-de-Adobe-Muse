@@ -1,0 +1,8 @@
+SPIKE $90
+Burrito de desayuno con huevo, frijoles negros, guacamole, cebolla, cilantro, salsa de tomate, chipotle y elección de papa, pollo, o carne de res.
+
+DAZZLER $70
+Papas fritas con huevos revueltos y tocino local.
+
+NESSIE $80
+Pancakes con abundantes chispas de chocolate o arándanos.
